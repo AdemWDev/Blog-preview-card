@@ -27,11 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ([https://your-solution-url.com](https://github.com/AdemWDev/Blog-preview-card))
-- Live Site URL: ([https://your-live-site-url.com](https://ademwdev.github.io/Blog-preview-card/))
-
-## My process
-
+- Solution URL: (https://github.com/AdemWDev/Blog-preview-card)
+- Live Site URL: (https://ademwdev.github.io/Blog-preview-card/)
+  
 ### Built with
 
 - Semantic HTML5 markup
