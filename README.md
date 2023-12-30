@@ -45,5 +45,5 @@ Users should be able to:
 
 - Frontend Mentor - [@AdemWDev](https://www.frontendmentor.io/profile/AdemWDev)
 - Twitter - [@AdemMhamdiii](https://www.twitter.com/AdemMhamdiii)
--email - (Ademmhamdi0111@gmail.com)
+- Email - (Ademmhamdi0111@gmail.com)
 
